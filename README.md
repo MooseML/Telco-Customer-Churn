@@ -45,7 +45,7 @@ The primary goal is to build a reliable machine learning model that predicts cus
 ## Results
 - **Best Model:** [Random Forest]
 - **Performance:**
-  - Accuracy: [0.96]
+  - Accuracy: [0.95]
   - ROC-AUC: [0.99]
 
 ## Installation
